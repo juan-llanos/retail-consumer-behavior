@@ -1,0 +1,30 @@
+# Environment variables — PostgreSQL credentials
+.env
+
+# Raw datasets — too large / third-party, not meant to be versioned
+data/raw/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+.env
