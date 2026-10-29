@@ -2,6 +2,8 @@
 
 `data/raw/` is excluded from version control (see `.gitignore`) because these files are third-party and too large to version. Download each dataset and place it under `data/raw/` exactly as shown below before running the notebooks.
 
+This repository doesn't redistribute any of the files. Each dataset is subject to the license shown on its Kaggle page and to the terms of its original provider (dunnhumby, REES46, Kevin Hillstrom / MineThatData); check them before reusing the data.
+
 ## dunnhumby — The Complete Journey
 
 - **Source:** [Kaggle — Dunnhumby - The Complete Journey](https://www.kaggle.com/datasets/frtgnn/dunnhumby-the-complete-journey) (Firat Gonen)
